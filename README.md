@@ -3,5 +3,5 @@ This program shows how to use multiple processes, signal handling, pipes for int
 
 This project was created for an academic purpose assignment.
 
-To compile the file, use command: gcc -o histogram histogram.c
+To compile the file, use command: gcc -o histogram histogram.c.
 To run the file, run it through the terminal using command: ./histogram <textfile>.txt
